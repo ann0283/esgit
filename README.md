@@ -1,1 +1,3 @@
-# Eunah-Seo
+# eunahseogit
+
+Hi I'm E.
